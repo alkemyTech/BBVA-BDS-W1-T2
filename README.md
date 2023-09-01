@@ -1,2 +1,2 @@
-# BBVA-BDS-W1-T1
-Repositorio para Programa BBVA Business Data Specialist Team 1
+# BBVA-BDS-W1-T2
+Repositorio para Programa BBVA Business Data Specialist Team 2
